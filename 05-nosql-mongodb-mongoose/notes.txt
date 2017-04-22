@@ -1,0 +1,9 @@
+NOSQL:
+
+A variety of technologies that are alternatives to tables
+
+and SQL.
+
+One of those types is a document database. MongoDB is one 
+
+of those.
