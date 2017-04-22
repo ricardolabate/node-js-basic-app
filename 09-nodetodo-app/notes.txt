@@ -1,0 +1,25 @@
+Let's build an App called "Nodetodo" is a Todo List
+
+Requirements:
+
+- A user can add, edit and delete 'todos'
+
+- Each todo can be marked as complete
+
+- Each todo can have on optional file attachment
+
+- One person cannot access the todos of another
+(Authentication)
+
+Adding SEED DATA:
+
+Seed: 
+Adding initial Data to a Database 
+
+API as Endpoint:
+
+An API could connect different interfaces, we could have
+
+one Interface using AngularJS, other ReactJS, other 
+
+is an Android App
