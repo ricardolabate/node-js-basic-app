@@ -1,0 +1,31 @@
+MEAN = MongoDB, Express, AngularJS and NodeJS
+
+Stack:
+
+The combination of all technologies used to build a piece
+
+of software.
+
+Your database system, your server side code, your client side
+
+code and everything else.
+
+MongoDB = Stores data in documents that look a lot like JSON
+and Javascript object literal notation.
+
+Express = Javascript framework that makes things like routing,
+writing APIs and working with HTTP easier (Server side).
+
+AngularJS = Javascript framework for managing code and UI 
+in the browser, removing a lot of manual work. Connects
+the interface (client side) with the server side.
+
+NodeJS = Javascript on the server. Handle HTTP requests and
+responses and lots more.
+
+MEAN is just used to sound better the correct order would be 
+
+MongoDB -> NodeJS -> Express -> AngularJS
+
+
+
