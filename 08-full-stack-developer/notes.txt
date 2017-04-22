@@ -1,0 +1,26 @@
+AngularJS
+
+Important: Browsers are written in C++
+
+Browsers also have JS engines embedded in them and give
+them access to extra features.
+
+DOM:
+
+The structure browsers use to store and manage Web Pages
+
+Stands for 'Document Object Model'. Browsers give the 
+Javascript engine the ability to manipulate the DOM.
+
+The DOM gives features and access to Javascript manipulates
+
+the DOM
+
+DOM Tree and Hierarchy of elements
+
+Full Stack Developer:
+
+A developer who knows all the pieces of a software Stack.
+
+And thus can build a software themselves.
+
